@@ -1,4 +1,3 @@
-
 def main():
 	import random 
 	dice_rolls = int(input('How many dice would you like to roll? '))
